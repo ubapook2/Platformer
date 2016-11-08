@@ -36,6 +36,11 @@ public class Player : MonoBehaviour {
             rigidbody2D.velocity += Vector2.up * jumpForce;
         }
 
+        if (Input.GetAxis("Vertical") < 0)
+        {
+            transform.localScale *= .8f;
+        }
+
         if (rigidbody2D.velocity.x > 0)
         {
             transform.rotation = new Quaternion(0, 0, 0, 0);
