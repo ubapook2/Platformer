@@ -1,0 +1,1403 @@
+fileFormatVersion: 2
+guid: b4e1f9755b341f8468f9059ccb08c738
+timeCreated: 1477000446
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character sprite 3 dragon_0
+    21300002: character sprite 3 dragon_1
+    21300004: character sprite 3 dragon_2
+    21300006: character sprite 3 dragon_3
+    21300008: character sprite 3 dragon_4
+    21300010: character sprite 3 dragon_5
+    21300012: character sprite 3 dragon_6
+    21300014: character sprite 3 dragon_7
+    21300016: character sprite 3 dragon_8
+    21300018: character sprite 3 dragon_9
+    21300020: character sprite 3 dragon_10
+    21300022: character sprite 3 dragon_11
+    21300024: character sprite 3 dragon_12
+    21300026: character sprite 3 dragon_13
+    21300028: character sprite 3 dragon_14
+    21300030: character sprite 3 dragon_15
+    21300032: character sprite 3 dragon_16
+    21300034: character sprite 3 dragon_17
+    21300036: character sprite 3 dragon_18
+    21300038: character sprite 3 dragon_19
+    21300040: character sprite 3 dragon_20
+    21300042: character sprite 3 dragon_21
+    21300044: character sprite 3 dragon_22
+    21300046: character sprite 3 dragon_23
+    21300048: character sprite 3 dragon_24
+    21300050: character sprite 3 dragon_25
+    21300052: character sprite 3 dragon_26
+    21300054: character sprite 3 dragon_27
+    21300056: character sprite 3 dragon_28
+    21300058: character sprite 3 dragon_29
+    21300060: character sprite 3 dragon_30
+    21300062: character sprite 3 dragon_31
+    21300064: character sprite 3 dragon_32
+    21300066: character sprite 3 dragon_33
+    21300068: character sprite 3 dragon_34
+    21300070: character sprite 3 dragon_35
+    21300072: character sprite 3 dragon_36
+    21300074: character sprite 3 dragon_37
+    21300076: character sprite 3 dragon_38
+    21300078: character sprite 3 dragon_39
+    21300080: character sprite 3 dragon_40
+    21300082: character sprite 3 dragon_41
+    21300084: character sprite 3 dragon_42
+    21300086: character sprite 3 dragon_43
+    21300088: character sprite 3 dragon_44
+    21300090: character sprite 3 dragon_45
+    21300092: character sprite 3 dragon_46
+    21300094: character sprite 3 dragon_47
+    21300096: character sprite 3 dragon_48
+    21300098: character sprite 3 dragon_49
+    21300100: character sprite 3 dragon_50
+    21300102: character sprite 3 dragon_51
+    21300104: character sprite 3 dragon_52
+    21300106: character sprite 3 dragon_53
+    21300108: character sprite 3 dragon_54
+    21300110: character sprite 3 dragon_55
+    21300112: character sprite 3 dragon_56
+    21300114: character sprite 3 dragon_57
+    21300116: character sprite 3 dragon_58
+    21300118: character sprite 3 dragon_59
+    21300120: character sprite 3 dragon_60
+    21300122: character sprite 3 dragon_61
+    21300124: character sprite 3 dragon_62
+    21300126: character sprite 3 dragon_63
+    21300128: character sprite 3 dragon_64
+    21300130: character sprite 3 dragon_65
+    21300132: character sprite 3 dragon_66
+    21300134: character sprite 3 dragon_67
+    21300136: character sprite 3 dragon_68
+    21300138: character sprite 3 dragon_69
+    21300140: character sprite 3 dragon_70
+    21300142: character sprite 3 dragon_71
+    21300144: character sprite 3 dragon_72
+    21300146: character sprite 3 dragon_73
+    21300148: character sprite 3 dragon_74
+    21300150: character sprite 3 dragon_75
+    21300152: character sprite 3 dragon_76
+    21300154: character sprite 3 dragon_77
+    21300156: character sprite 3 dragon_78
+    21300158: character sprite 3 dragon_79
+    21300160: character sprite 3 dragon_80
+    21300162: character sprite 3 dragon_81
+    21300164: character sprite 3 dragon_82
+    21300166: character sprite 3 dragon_83
+    21300168: character sprite 3 dragon_84
+    21300170: character sprite 3 dragon_85
+    21300172: character sprite 3 dragon_86
+    21300174: character sprite 3 dragon_87
+    21300176: character sprite 3 dragon_88
+    21300178: character sprite 3 dragon_89
+    21300180: character sprite 3 dragon_90
+    21300182: character sprite 3 dragon_91
+    21300184: character sprite 3 dragon_92
+    21300186: character sprite 3 dragon_93
+    21300188: character sprite 3 dragon_94
+    21300190: character sprite 3 dragon_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character sprite 3 dragon_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 617
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 615
+        width: 131
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 617
+        width: 132
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 622
+        width: 128
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_4
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 623
+        width: 126
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 627
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 631
+        width: 123
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_7
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 573
+        width: 73
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_8
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 643
+        width: 325
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 513
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_10
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 549
+        width: 325
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 430
+        width: 136
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_12
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 446
+        width: 135
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 447
+        width: 141
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 447
+        width: 141
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_15
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 446
+        width: 138
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_16
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 372
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_17
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 369
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_18
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 374
+        width: 239
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 327
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 327
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_21
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 327
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_22
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 327
+        width: 85
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 327
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 327
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_25
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 327
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_26
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 325
+        width: 133
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_27
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 213
+        width: 137
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 213
+        width: 137
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_29
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 213
+        width: 136
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_30
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 213
+        width: 136
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_31
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 215
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_32
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 214
+        width: 134
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_33
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 243
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_34
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 247
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_35
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 249
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_36
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 246
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_37
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 223
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_38
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 264
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_39
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 262
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_40
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 262
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_41
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 232
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_42
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 236
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_43
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 214
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_44
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 229
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_45
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 231
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_46
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 226
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_47
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 120
+        width: 127
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_48
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 120
+        width: 136
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_49
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 117
+        width: 137
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_50
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 116
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 116
+        width: 140
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_52
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 118
+        width: 133
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_53
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 183
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_54
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 185
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_55
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 184
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_56
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 184
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_57
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 189
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_58
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 189
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_59
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 189
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_60
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 189
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_61
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 163
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_62
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 164
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_63
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 134
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_64
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 127
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_65
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 125
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_66
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 125
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_67
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 125
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_68
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 125
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_69
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 110
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_70
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 111
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_71
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 152
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_72
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 143
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_73
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 114
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_74
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 126
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_75
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 96
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_76
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 116
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_77
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 101
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_78
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 108
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_79
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_80
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 17
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_81
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 19
+        width: 106
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_82
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 18
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_83
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 16
+        width: 117
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_84
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 95
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_85
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 92
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_86
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 76
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_87
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 76
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_88
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 79
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_89
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 79
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_90
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 77
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_91
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 57
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_92
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 58
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_93
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 20
+        width: 129
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_94
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 19
+        width: 133
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character sprite 3 dragon_95
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 70
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
