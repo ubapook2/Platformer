@@ -10,6 +10,8 @@ public class Player : MonoBehaviour {
     public float jumpForce = 5;
     private new Rigidbody2D rigidbody2D;
 
+    private bool isDucking = false;
+
 
     // Use this for initialization
     void Start ()
@@ -36,11 +38,23 @@ public class Player : MonoBehaviour {
             rigidbody2D.velocity += Vector2.up * jumpForce;
         }
 
-        if (Input.GetAxis("Vertical") < 0)
+        // Ducking mechanism
+        if (Input.GetAxis("Vertical") < 0 && !isDucking)
         {
-            transform.localScale *= .8f;
+            var s = transform.localScale;
+            s.y *= .7f;
+            transform.localScale = s;
+            isDucking = true;
+        }
+        if (Input.GetAxis("Vertical") >= 0 && isDucking)
+        {
+            var s = transform.localScale;
+            s.y /= .7f;
+            transform.localScale = s;
+            isDucking = false;
         }
 
+        // Flip mechanism for turning around
         if (rigidbody2D.velocity.x > 0)
         {
             transform.rotation = new Quaternion(0, 0, 0, 0);
