@@ -9,13 +9,13 @@ public class FlyingMovement : MonoBehaviour
 
     // Use this for initialization
 
-    Vector3 direction = Vector3.left;
+    // Vector3 direction = Vector3.left;
 
     // Update is called once per frame
     void Update()
     {
 
-        transform.position = Vector3.Slerp(transform.position, waypoints[waypointIndex], Time.deltaTime);
+        transform.position = Vector3.MoveTowards(transform.position, waypoints[waypointIndex], Time.deltaTime);
         if (Vector3.Distance(transform.position, waypoints[waypointIndex]) < .2f)
         {
             waypointIndex++;

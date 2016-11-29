@@ -20,7 +20,7 @@ public class PatrolMovement : MonoBehaviour
 
         if (transform.position.x <= -1)
         {
-            direction = new Vector3(1, .3f);
+            direction = new Vector3(2, .3f);
         }
         if (transform.position.x >= 6)
         {

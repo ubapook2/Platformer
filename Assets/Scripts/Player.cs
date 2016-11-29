@@ -5,9 +5,10 @@ using System.Collections;
 public class Player : MonoBehaviour {
 
     const float DEAD_ZONE_HEIGHT = -2;
-    private Vector3 startPosition;
     public float maxSpeed = 1;
     public float jumpForce = 5;
+
+    private Vector3 startPosition;
     private new Rigidbody2D rigidbody2D;
 
     private bool isDucking = false;
