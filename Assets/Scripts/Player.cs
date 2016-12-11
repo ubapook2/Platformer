@@ -7,6 +7,7 @@ public class Player : MonoBehaviour {
     const float DEAD_ZONE_HEIGHT = -2;
     public float maxSpeed = 1;
     public float jumpForce = 5;
+    public Weapon currentWeapon;
 
     private Vector3 startPosition;
     private new Rigidbody2D rigidbody2D;
@@ -39,6 +40,11 @@ public class Player : MonoBehaviour {
             rigidbody2D.velocity += Vector2.up * jumpForce;
         }
 
+        if (Input.GetButtonDown("Fire1") && currentWeapon != null)
+        {
+            currentWeapon.Attack();
+        }
+
         // Ducking mechanism
         if (Input.GetAxis("Vertical") < 0 && !isDucking)
         {
@@ -66,6 +72,11 @@ public class Player : MonoBehaviour {
         }
 	}
 
+    public void takeDamage()
+    {
+        FindObjectOfType<GM>().loseHealth();
+    }
+    
 
     public void Die()
     {

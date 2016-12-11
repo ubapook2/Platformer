@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 2c042ce65447c9349b1d2f951b2ee837
+timeCreated: 1481432382
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: soldier spritesheet 1_0
+    21300002: soldier spritesheet 1_1
+    21300004: soldier spritesheet 1_2
+    21300006: soldier spritesheet 1_3
+    21300008: soldier spritesheet 1_4
+    21300010: soldier spritesheet 1_5
+    21300012: soldier spritesheet 1_6
+    21300014: soldier spritesheet 1_7
+    21300016: soldier spritesheet 1_8
+    21300018: soldier spritesheet 1_9
+    21300020: soldier spritesheet 1_10
+    21300022: soldier spritesheet 1_11
+    21300024: soldier spritesheet 1_12
+    21300026: soldier spritesheet 1_13
+    21300028: soldier spritesheet 1_14
+    21300030: soldier spritesheet 1_15
+    21300032: soldier spritesheet 1_16
+    21300034: soldier spritesheet 1_17
+    21300036: soldier spritesheet 1_18
+    21300038: soldier spritesheet 1_19
+    21300040: soldier spritesheet 1_20
+    21300042: soldier spritesheet 1_21
+    21300044: soldier spritesheet 1_22
+    21300046: soldier spritesheet 1_23
+    21300048: soldier spritesheet 1_24
+    21300050: soldier spritesheet 1_25
+    21300052: soldier spritesheet 1_26
+    21300054: soldier spritesheet 1_27
+    21300056: soldier spritesheet 1_28
+    21300058: soldier spritesheet 1_29
+    21300060: soldier spritesheet 1_30
+    21300062: soldier spritesheet 1_31
+    21300064: soldier spritesheet 1_32
+    21300066: soldier spritesheet 1_33
+    21300068: soldier spritesheet 1_34
+    21300070: soldier spritesheet 1_35
+    21300072: soldier spritesheet 1_36
+    21300074: soldier spritesheet 1_37
+    21300076: soldier spritesheet 1_38
+    21300078: soldier spritesheet 1_39
+    21300080: soldier spritesheet 1_40
+    21300082: soldier spritesheet 1_41
+    21300084: soldier spritesheet 1_42
+    21300086: soldier spritesheet 1_43
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soldier spritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 931
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 931
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 931
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 739
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 444
+        width: 100
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 442
+        width: 97
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 444
+        width: 137
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 442
+        width: 116
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 443
+        width: 133
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 443
+        width: 125
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: soldier spritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 444
+        width: 104
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,9 +7,11 @@ public class GM : MonoBehaviour {
     public int coins = 0;
     public int lives = 3;
     public int coinsNeeded = 4;
+    public int health = 100;
 
     public Text coinsText;
     public Text livesText;
+    public Text healthText;
 
     public GameObject winSign;
     public GameObject outSign;
@@ -19,6 +21,7 @@ public class GM : MonoBehaviour {
     {
         coinsText.text = coins.ToString();
         livesText.text = lives.ToString();
+        healthText.text = health.ToString();
 	
 	}
 	
@@ -33,10 +36,10 @@ public class GM : MonoBehaviour {
         coins += worth;
         coinsText.text = coins.ToString();
 
-        if (coins == coinsNeeded)
-        {
-            winSign.SetActive(true);
-        }
+        //if (coins == coinsNeeded)
+        //{
+        //    winSign.SetActive(true);
+        //}
     }
 
     public void LifeWasLost()
@@ -47,6 +50,19 @@ public class GM : MonoBehaviour {
         if (lives == 0)
         {
             outSign.SetActive(true);
+        }
+    }
+
+    public void loseHealth()
+    {
+        health -= 25;
+        healthText.text = health.ToString();
+
+        if (health == 0)
+        {
+            FindObjectOfType<Player>().Die();
+            health = 100;
+            healthText.text = health.ToString();
         }
     }
 }
