@@ -1,23 +1,36 @@
 ﻿using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Pause : MonoBehaviour
 {
     bool paused = false;
 
+    public GameObject pauseSign;
+
+    void Start()
+    {
+        pauseSign.SetActive(false);
+    }
+
     void Update()
     {
-        if (Input.GetButtonDown("pauseButton"))
+        if (Input.GetButtonDown("Pause"))
             paused = togglePause();
     }
 
     void OnGUI()
     {
-        if (paused)
+        if (paused == true)
         {
-            GUILayout.Label("Game is paused!");
-            if (GUILayout.Button("Click me to unpause"))
-                paused = togglePause();
+            pauseSign.SetActive(true);
+            
+        }
+
+        if (Input.GetButtonDown("Pause"))
+        {
+            paused = togglePause();
+            pauseSign.SetActive(false);
         }
     }
 

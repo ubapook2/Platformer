@@ -4,7 +4,7 @@ using System.Collections;
 
 public class Player : MonoBehaviour {
 
-    const float DEAD_ZONE_HEIGHT = -2;
+    const float DEAD_ZONE_HEIGHT = -5;
     public float maxSpeed = 1;
     public float jumpForce = 5;
     public Weapon currentWeapon;
@@ -13,6 +13,8 @@ public class Player : MonoBehaviour {
     private new Rigidbody2D rigidbody2D;
 
     private bool isDucking = false;
+    private bool checkpointReached = false;
+    
 
 
     // Use this for initialization
@@ -20,8 +22,9 @@ public class Player : MonoBehaviour {
     {
         rigidbody2D = GetComponent<Rigidbody2D>();
         startPosition = transform.position;
-	
-	}
+
+
+    }
 	
 	// Update is called once per frame
 	void Update ()
@@ -30,6 +33,7 @@ public class Player : MonoBehaviour {
         {
             Die();
         }
+
 
         var x_force = Input.GetAxis("Horizontal");
         rigidbody2D.velocity += Vector2.right * x_force;
@@ -72,18 +76,36 @@ public class Player : MonoBehaviour {
         }
 	}
 
-    public void takeDamage()
+    
+    public void takeDamage()                   // part of taking 25 damage for collision with enemy obeject
     {
         FindObjectOfType<GM>().loseHealth();
     }
-    
+
+    public void CheckpointOne()   // Sets up the first Checkpoint
+    {
+        //checkpointReached = true;
+        startPosition = new Vector2(FindObjectOfType<CheckpointOne>().Position.x, FindObjectOfType<CheckpointOne>().Position.y);
+        //   FindObjectOfType<GM>().checkpoint();   // shows a sign that checkpoint has been reached
+    }
+
+    public void CheckpointTwo()   // Sets up the second Checkpoint
+    {
+        //checkpointReached = true;
+        startPosition = new Vector2(FindObjectOfType<CheckpointTwo>().Position.x, FindObjectOfType<CheckpointTwo>().Position.y);
+    }
+
+
 
     public void Die()
     {
-        transform.position = startPosition;
         rigidbody2D.velocity = new Vector2();
         FindObjectOfType<GM>().LifeWasLost();
+        transform.position = startPosition;
+        FindObjectOfType<GM>().respawn();
     }
+
+
 
 
 }

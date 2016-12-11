@@ -22,7 +22,7 @@ public class Enemy : MonoBehaviour
         var player = collision.gameObject.GetComponent<Player>();
         if(player != null)
         {
-            player.takeDamage();
+            player.takeDamage(); 
         }
     }
 }

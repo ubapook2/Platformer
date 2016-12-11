@@ -9,12 +9,14 @@ public class GM : MonoBehaviour {
     public int coinsNeeded = 4;
     public int health = 100;
 
+
     public Text coinsText;
     public Text livesText;
     public Text healthText;
 
     public GameObject winSign;
     public GameObject outSign;
+    public GameObject checkpointReached;
 
 	// Use this for initialization
 	void Start ()
@@ -36,10 +38,18 @@ public class GM : MonoBehaviour {
         coins += worth;
         coinsText.text = coins.ToString();
 
-        //if (coins == coinsNeeded)
-        //{
-        //    winSign.SetActive(true);
-        //}
+        if (coins % 10 == 0)   // this part will make it so 10 coints grants 25 health
+        {
+            health += 25;
+            healthText.text = health.ToString();
+        }
+
+    }
+
+    public void heartPickedUp()
+    {
+        lives++;
+        livesText.text = lives.ToString();
     }
 
     public void LifeWasLost()
@@ -50,10 +60,11 @@ public class GM : MonoBehaviour {
         if (lives == 0)
         {
             outSign.SetActive(true);
+            Time.timeScale = 0;
         }
     }
 
-    public void loseHealth()
+    public void loseHealth()    // this will be a way to keep track of health, starting at 100, -25 each hit with an enemy
     {
         health -= 25;
         healthText.text = health.ToString();
@@ -64,5 +75,22 @@ public class GM : MonoBehaviour {
             health = 100;
             healthText.text = health.ToString();
         }
+    }
+
+    public void respawn() // respawns player with full health
+    {
+        health = 100;
+        healthText.text = health.ToString();
+    }
+
+    //public void checkpoint()     // shows a sign that checkpoint has been reached
+    //{
+     //   checkpointReached.SetActive(true);
+    //}
+
+    public void youWin()   // Enables the "You Win" sign upon reaching the end of last level
+    {
+        winSign.SetActive(true);
+        Time.timeScale = 0f;
     }
 }
