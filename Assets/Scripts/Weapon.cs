@@ -21,9 +21,9 @@ public class Weapon : MonoBehaviour
     {
         var r = Instantiate(projectile);
         r.transform.parent = transform;
-        r.transform.localScale = new Vector3(1, 1);
+        r.transform.localScale = new Vector3(0.3f, 0.3f);
         r.transform.localPosition = new Vector3(-5, 0);
-        r.transform.localRotation = new Quaternion();
+        r.transform.localRotation = new Quaternion(1, 0, 0, 0);
         // r.GetComponent<Rigidbody2D>().AddRelativeForce(new Vector2(2000, 0));
         r.GetComponent<Rigidbody2D>().AddForce(r.transform.TransformDirection(new Vector2(-2000, 0)));
 

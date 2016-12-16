@@ -8,11 +8,13 @@ public class GM : MonoBehaviour {
     public int lives = 3;
     public int coinsNeeded = 4;
     public int health = 100;
+    public int ammo = 5;
 
 
     public Text coinsText;
     public Text livesText;
     public Text healthText;
+    public Text ammoText;
 
     public GameObject winSign;
     public GameObject outSign;
@@ -24,6 +26,7 @@ public class GM : MonoBehaviour {
         coinsText.text = coins.ToString();
         livesText.text = lives.ToString();
         healthText.text = health.ToString();
+        ammoText.text = ammo.ToString();
 	
 	}
 	
@@ -92,5 +95,17 @@ public class GM : MonoBehaviour {
     {
         winSign.SetActive(true);
         Time.timeScale = 0f;
+    }
+
+    public void ammoUsed()
+    {
+        ammo--;
+        ammoText.text = ammo.ToString();
+    }
+
+    public void ammoPickedUp()
+    {
+        ammo += 5;
+        ammoText.text = ammo.ToString();
     }
 }

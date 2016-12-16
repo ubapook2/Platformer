@@ -14,8 +14,10 @@ public class Player : MonoBehaviour {
 
     private bool isDucking = false;
     private bool checkpointReached = false;
-    
 
+    public float NextFire;
+    public float FireRate = 1.0f;   
+    
 
     // Use this for initialization
     void Start ()
@@ -44,9 +46,12 @@ public class Player : MonoBehaviour {
             rigidbody2D.velocity += Vector2.up * jumpForce;
         }
 
-        if (Input.GetButtonDown("Fire1") && currentWeapon != null)
+        //if (Input.GetButton("Fire1") && currentWeapon != null)
+        if (Input.GetButton("Fire1") && Time.time > NextFire && (FindObjectOfType<GM>().ammo != 0) && (currentWeapon != null))
         {
+            NextFire = Time.time + FireRate;
             currentWeapon.Attack();
+            FindObjectOfType<GM>().ammoUsed();
         }
 
         // Ducking mechanism
@@ -104,6 +109,7 @@ public class Player : MonoBehaviour {
         transform.position = startPosition;
         FindObjectOfType<GM>().respawn();
     }
+
 
 
 

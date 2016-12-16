@@ -20,9 +20,16 @@ public class Enemy : MonoBehaviour
     public void OnCollisionEnter2D(Collision2D collision)
     {
         var player = collision.gameObject.GetComponent<Player>();
-        if(player != null)
+        if (player != null)
         {
             player.takeDamage(); 
+        }
+
+        var rocket = collision.gameObject.GetComponent<Rocket>();
+        if (rocket != null)
+        {
+            transform.parent.gameObject.SetActive(false);
+            rocket.gameObject.SetActive(false);
         }
     }
 }
